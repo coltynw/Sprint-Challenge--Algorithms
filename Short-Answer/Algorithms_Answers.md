@@ -45,8 +45,6 @@ c)
  Write out your proposed algorithm in plain English or pseudocode AND give the runtime complexity of your solution. -->
 
 
-This is simply going to have to be a loop or use recursive of some kind, that rules out the first 3, constant, logarithmic and linear.
-
 Since we can sort large sums of the data (the floors) at once by checking if the egg breaks, recursive sorting and iterative sorting doesn't really seem correct so I'm going to review my notes.
 
 This is a sorted data set, the floors never change in order, so I'm going to think Binary Search. I'm going to look up more on Binary Search since that was like Monday and I don't really remember it.
